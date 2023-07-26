@@ -11,9 +11,10 @@ El contiene un *webmap* con la ubicación de los sitios fechados con cerámica K
 **Abstract:** In recent years, the Koriabo ceramic style has become a prominent subject of study in the archaeology of the lower Amazon region. Its significance lies in its wide territorial distribution across areas historically inhabited by Carib-speaking peoples, as well as the consistency in its visual style. While previously confined to the Guianas' shield, it has now been identified in late age contexts of the lower Xingu River, the Amazon estuary, and the Lesser Antilles. Most of the radiocarbon dates point to a period after AD 1000, suggesting a rapid expansion towards the lower Amazon, supported by the similarities in morphology and decorative elements. This paper specifically focuses on the variability of Koriabo ceramics found at the Laranjal do Jari 1 site, situated in the lower Jari River area. The presence of two different ceramic assemblages in this settlement reflects broader processes of change occurring in the region. By integrating data from houses, pottery, and depositional contexts, the study offers a comprehensive analysis of the Koriabo style through the lens of historical processes such as migration, interaction, and cultural change.
 
 **Keywords:** Koriabo ceramics, houses, lower Amazon, Cariban languages.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### **Referencias utilizadas en la elaboración del mapa:**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Barreto, B. 2015. **Diacronia e cultura material no sítio Laranjal do Jari 01: um assentamento associado às cerâmicas Jari e Koriabo, baixo rio Jari, sul do Amapá (670 - 1450 AD).** Tesis de Maestria, Universidade Federal de Sergipe.
 
