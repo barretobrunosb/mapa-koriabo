@@ -20,7 +20,7 @@ Barreto, B. 2015. **Diacronia e cultura material no sítio Laranjal do Jari 01: 
 
 Barreto, C. y Nascimento, H. 2016. **Lugares persistentes e identidades distribuídas no baixo Amazonas: complexos cerâmicos pré-coloniais de Monte Alegre, Pará.** Revista de Arqueologia 29(1):55–85.
 
-Barreto, B. y Oleiro, L. 2022. Resgate Arqueológico do sítio CTUEAP (rRelatório de Campo/PGPA). NuPArq/EPA, Macapá.
+Barreto, B. y Oleiro, L. 2022. **Resgate Arqueológico do sítio CTUEAP (Relatório de Campo/PGPA)**. NuPArq/EPA, Macapá.
 
 Gambim Junior, A. 2016. **Corpo, vida e morte na foz do rio Amazonas: as estruturas funerárias do sítio Curiaú Mirim I/AP.** MN/UFRJ, Rio de Janeiro.
 
