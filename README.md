@@ -1,5 +1,7 @@
 # *Webmap* de la cerámica Koriabo y Lenguas Caribe
 
+[![DOI](https://zenodo.org/badge/670832047.svg)](https://zenodo.org/badge/latestdoi/670832047)
+
 Este repositorio fue producido como material suplementario del artículo **Casas, cerámicas y espacialidad: La introducción del estilo Koriabo en el sur de Amapá y los cambios en el bajo Amazonas en la transición del año 1000 d.C.**, presentado por Bruno Barreto a la revista *Latin American Antiquity*.
 
 El contiene un *webmap* con la ubicación de los sitios fechados con cerámica Koriabo en el norte de Sudamérica y las Antillas Menores, y la distribución de los estilos Koriabo, Konduri y Santarém, bien como de las lenguas Caribe.
