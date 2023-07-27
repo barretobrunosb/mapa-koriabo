@@ -1,9 +1,11 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Barreto
-    given-names: Bruno de Souza
-    https://orcid.org/0000-0002-9166-3875
-title: barretobrunosb/mapa-koriabo: Mapa de la cerámica Koriabo y Lenguas Caribe
+  - family-names: "Barreto
+    given-names: "Bruno de Souza"
+    orcid: "https://orcid.org/0000-0002-9166-3875"
+title: barretobrunosb/mapa-koriabo: Webmap de la cerámica Koriabo y Lenguas Caribe
 version: 0.1.0
+DOI: 10.5281/zenodo.8187796
 date-released: 2023-07-26
+url: "https://barretobrunosb.github.io/mapa-koriabo/"
