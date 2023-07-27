@@ -1,7 +1,6 @@
 # *Webmap* de la cerámica Koriabo y Lenguas Caribe
 
-**Bruno de Souza Barreto** [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)][(https://orcid.org/
-0000-0002-9166-3875)
+**Bruno de Souza Barreto** [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-9166-3875)
 
 
 [![DOI](https://zenodo.org/badge/670832047.svg)](https://zenodo.org/badge/latestdoi/670832047)
