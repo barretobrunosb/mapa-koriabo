@@ -3,6 +3,11 @@
 **Bruno de Souza Barreto** 
 [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-9166-3875)
 
+<a href="https://orcid.org/0000-0001-5727-2427">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+0000-0001-2345-6789
+</a>
+
 
 [![DOI](https://zenodo.org/badge/670832047.svg)](https://zenodo.org/badge/latestdoi/670832047)
 
