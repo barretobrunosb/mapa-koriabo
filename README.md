@@ -6,8 +6,9 @@
 0000-0002-9166-3875
 </a>
 
-
 [![DOI](https://zenodo.org/badge/670832047.svg)](https://zenodo.org/badge/latestdoi/670832047)
+
+Barreto, B. D. S. (2023). *Webmap de la cerámica Koriabo y Lenguas Caribe (Version 0.1.0) [Computer software]*. https://barretobrunosb.github.io/mapa-koriabo. DOI: 10.5281/zenodo.8187796. 
 
 Este repositorio fue producido como material suplementario del artículo **Casas, cerámicas y espacialidad: La introducción del estilo Koriabo en el sur de Amapá y los cambios en el bajo Amazonas en la transición del año 1000 d.C.**, presentado por Bruno Barreto a la revista *Latin American Antiquity*.
 
