@@ -2,7 +2,6 @@
 
 #### Bruno de Souza Barreto
 
-<a href="https://zenodo.org/badge/latestdoi/670832047"><img src="https://zenodo.org/badge/670832047.svg" alt="DOI"></a>
 [![DOI](https://zenodo.org/badge/670832047.svg)](https://zenodo.org/badge/latestdoi/670832047)
 
 <a href="https://orcid.org/0000-0001-5727-2427">
@@ -11,7 +10,6 @@ https://orcid.org/0000-0001-2345-6789
 </a>
 
 [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-2345-6789)
-[https://zenodo.org/badge/670832047.svg)](https://zenodo.org/badge/latestdoi/670832047](https://orcid.org/0000-0001-5727-2427))
 
 
 Este repositorio fue producido como material suplementario del artículo **Casas, cerámicas y espacialidad: La introducción del estilo Koriabo en el sur de Amapá y los cambios en el bajo Amazonas en la transición del año 1000 d.C.**, presentado por Bruno Barreto a la revista *Latin American Antiquity*.
